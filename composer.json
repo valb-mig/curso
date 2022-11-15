@@ -1,0 +1,17 @@
+{
+    "name": "mig/curso",
+    "authors": [
+        {
+            "name": "Ivalber Miguel",
+            "email": "valb.mig@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "app\\":"app"
+        },
+        "files": [
+        ]
+    }
+}
