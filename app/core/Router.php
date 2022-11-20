@@ -5,6 +5,7 @@
     {
         public static function run()
         {
-            
+            $routerRegistered = new RoutersFilter;
+            $router = $routerRegistered->get();
         }
     }
